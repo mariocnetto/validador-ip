@@ -4,7 +4,8 @@ const PORT = process.env.PORT || 3000;
 
 const IPS_AUTORIZADOS = [
   '177.43.148.75',  // Substitua pelo IP real
-  '189.52.22.10'
+  '189.52.22.10',
+  '162.120.185.212',  // Apollo
 ];
 
 app.get('/ips_autorizados', (req, res) => {
