@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3000;
 
 const IPS_AUTORIZADOS = [
   '177.43.148.75',  // Substitua pelo IP real
-  '104.28.207.194',  // Meu IP
+  '177.96.232.81',  // Meu IP
   '152.248.41.159',  // Apollo
 ];
 
