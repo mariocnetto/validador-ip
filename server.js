@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const IPS_AUTORIZADOS = [
-  '177.43.148.75',  // Substitua pelo IP real
+  '104.28.193.83',  // meu ip descartavel
   '177.158.146.156',  // Meu IP
   '152.248.41.159',  // Apollo
 ];
