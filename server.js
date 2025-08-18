@@ -6,6 +6,7 @@ const IPS_AUTORIZADOS = [
   '104.28.193.83',  // meu ip descartavel
   '177.158.146.156',  // Meu IP
   '152.248.41.159',  // Apollo
+  '104.28.193.83',  // meu ip descartavel2
 ];
 
 app.get('/ips_autorizados', (req, res) => {
