@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const IPS_AUTORIZADOS = [
-  '3FF43366-CE56-59B7-55AC-3C7C3F3BF362',  // uuid king
+  '',  // uuid king
   '',  // Meu IP
   '',  // camara
   '',  // meu ip descartavel2
