@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 const IPS_AUTORIZADOS = [
   '96da4960d916f77c4c7b9546f39843c61702bf30e7a392e29de77f9665c60c2a',  // meu ip descartavel
   '177.158.146.156',  // Meu IP
-  '187.109.129.210',  // camara
+  '',  // camara
   '104.28.193.83',  // meu ip descartavel2
 ];
 
