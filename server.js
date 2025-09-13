@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const IPS_AUTORIZADOS = [
-  '3FF43366-CE56-59B7-55AC-3C7C3F3BF362',  // meu pc
+  '03FF0210-04E0-05D4-8706-B00700080009',  // meu pc
   '76451D00-FE8D-11D5-9974-2CFDA1C85962',  // meu servidor
   '4FE9D880-A6A3-D0F8-1BAB-9C5C8E7064FD',  // camara
   '415E9D17-69AB-8F47-B3BE-706979A3A8B1',  // camara notebook
